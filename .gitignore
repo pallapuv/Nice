@@ -1,0 +1,5 @@
+#Dont Include
+target
+pom1.xml
+aws.properties
+.idea
